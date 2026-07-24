@@ -14,7 +14,7 @@
 
 <!-- Replace with your actual screenshot -->
 <p align="center">
-  <img src=["https://github.com/Bendz07/Algorithm-Visualizer/blob/ffc69c8bc054c67488f8c964bd8d6153b4b2c0f2/algov.png">
+  <img src=["https://github.com/Bendz07/Algorithm-Visualizer/blob/ffc69c8bc054c67488f8c964bd8d6153b4b2c0f2/algov.png"]>
 </p>
 
 ---
