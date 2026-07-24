@@ -48,7 +48,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/algorithm-visualizer.git
+git clone https://github.com/Bendz07/algorithm-visualizer.git
 cd algorithm-visualizer
 
 # 2. Set up the database
@@ -245,7 +245,7 @@ Contributions are welcome! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/algorithm-visualizer.git
+git clone https://github.com/Bendz07/algorithm-visualizer.git
 
 # Install dependencies
 composer install
@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name** - [@b_abdelali](https://x.com/b_abdelali) - abdel.contact@gmail.com
 
-Project Link: [https://github.com/bendz07/algorithm-visualizer](https://github.com/bendz07/algorithm-visualizer)
+Project Link: [https://github.com/Bendz07/algorithm-visualizer](https://github.com/Bendz07/algorithm-visualizer)
 
 ---
 
@@ -351,7 +351,7 @@ Project Link: [https://github.com/bendz07/algorithm-visualizer](https://github.c
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bendz07/algorithm-visualizer&type=Date)](https://star-history.com/#bendz07/algorithm-visualizer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/algorithm-visualizer&type=Date)](https://star-history.com/#yourusername/algorithm-visualizer&Date)
 
 ---
 

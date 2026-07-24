@@ -1,0 +1,255 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: #f5f7fa;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    padding: 30px;
+    max-width: 900px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    margin-bottom: 15px;
+    background: #f0f2f5;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.input-group label {
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+input[type="text"] {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+}
+
+select, button {
+    padding: 6px 14px;
+    border: none;
+    border-radius: 4px;
+    background: #3498db;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+select {
+    background: #ecf0f1;
+    color: #2c3e50;
+}
+
+button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+button:hover:not(:disabled) {
+    background: #2980b9;
+}
+
+.speed-control {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: auto;
+}
+
+#stepInfo {
+    font-weight: 600;
+    color: #2c3e50;
+    margin-left: 10px;
+}
+
+#messageBox {
+    text-align: center;
+    font-size: 1.1rem;
+    padding: 8px;
+    margin-bottom: 10px;
+    background: #ecf0f1;
+    border-radius: 6px;
+    min-height: 40px;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+}
+/* Add to existing styles */
+.controls .input-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+#targetGroup {
+    display: none;
+}
+
+select optgroup {
+    font-weight: bold;
+}
+
+select optgroup option {
+    font-weight: normal;
+}
+
+#messageBox {
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .input-group {
+        flex-wrap: wrap;
+    }
+    
+    input[type="text"],
+    input[type="number"] {
+        width: 100%;
+    }
+    
+    canvas {
+        height: 300px;
+    }
+}
+/* Add or update these styles */
+.container {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    padding: 30px;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+canvas {
+    display: block;
+    margin: 10px auto;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+/* Controls responsive */
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 15px;
+    background: #f0f2f5;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.input-group label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+input[type="text"],
+input[type="number"] {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    min-width: 120px;
+    font-size: 14px;
+}
+
+#arrayInput {
+    min-width: 200px;
+}
+
+#targetInput {
+    min-width: 80px;
+    width: 80px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .input-group {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    input[type="text"],
+    input[type="number"] {
+        flex: 1;
+        min-width: 100px;
+    }
+    
+    #arrayInput {
+        min-width: 150px;
+    }
+    
+    .speed-control {
+        margin-left: 0;
+        justify-content: center;
+    }
+}
