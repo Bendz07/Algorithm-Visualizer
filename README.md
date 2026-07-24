@@ -1,7 +1,3 @@
-Here's an attractive, professional README.md for your Algorithm Visualizer project:
-
----
-
 # 🧩 Algorithm Visualizer
 
 > **Interactive visualization of sorting and searching algorithms built with PHP, MySQL, and JavaScript**
