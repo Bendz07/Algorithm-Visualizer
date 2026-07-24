@@ -311,7 +311,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Name** - [@b_abdelali](https://x.com/b_abdelali) - abdel.contact@gmail.com
+**X and Gmail** - [@b_abdelali](https://x.com/b_abdelali) - abdel.contact@gmail.com
 
 Project Link: [https://github.com/Bendz07/algorithm-visualizer](https://github.com/Bendz07/algorithm-visualizer)
 
