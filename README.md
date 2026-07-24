@@ -311,9 +311,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+**Your Name** - [@yourtwitter](https://x.com/b_abdelali) - abdel.contact@gmail.com
 
-Project Link: [https://github.com/yourusername/algorithm-visualizer](https://github.com/yourusername/algorithm-visualizer)
+Project Link: [https://github.com/yourusername/algorithm-visualizer](https://github.com/bendz07/algorithm-visualizer)
 
 ---
 
