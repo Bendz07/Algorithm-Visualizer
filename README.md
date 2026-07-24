@@ -311,9 +311,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Name** - [@yourtwitter](https://x.com/b_abdelali) - abdel.contact@gmail.com
+**Your Name** - [@b_abdelali](https://x.com/b_abdelali) - abdel.contact@gmail.com
 
-Project Link: [https://github.com/yourusername/algorithm-visualizer](https://github.com/bendz07/algorithm-visualizer)
+Project Link: [https://github.com/bendz07/algorithm-visualizer](https://github.com/bendz07/algorithm-visualizer)
 
 ---
 
@@ -351,7 +351,7 @@ Project Link: [https://github.com/yourusername/algorithm-visualizer](https://git
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/algorithm-visualizer&type=Date)](https://star-history.com/#yourusername/algorithm-visualizer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bendz07/algorithm-visualizer&type=Date)](https://star-history.com/#bendz07/algorithm-visualizer&Date)
 
 ---
 
